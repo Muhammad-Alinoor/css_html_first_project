@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 h1 {
     font-size: 60px;
     text-align: center;
@@ -10,12 +16,18 @@ img {
 
 .link {
     /* background-color: black; */
-    margin: 0 10% 0 10%;
+    margin: 4% 0% 0 28%;
 }
 
 div a {
-    background-color: black;
-    border: 2px solid white;
+    background-color: rgb(80 126 120 / 82%);
+    border: 5px solid #7e7e7d;
+    border-radius: 15%;
+    padding: 10px;
     margin-right: 10%;
+    color: white;
+}
 
+.link a {
+    text-decoration: none;
 }
