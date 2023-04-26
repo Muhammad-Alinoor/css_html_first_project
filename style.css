@@ -3,3 +3,19 @@ h1 {
     text-align: center;
     color: #140236;
 }
+
+img {
+    margin-left: 50%;
+}
+
+.link {
+    /* background-color: black; */
+    margin: 0 10% 0 10%;
+}
+
+div a {
+    background-color: black;
+    border: 2px solid white;
+    margin-right: 10%;
+
+}
