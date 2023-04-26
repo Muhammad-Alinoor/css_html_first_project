@@ -4,10 +4,20 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: aliceblue;
+    margin-left: -20px;
+}
+
 h1 {
     font-size: 60px;
     text-align: center;
     color: #140236;
+}
+
+span {
+    font-style: italic;
+    color: #5a2727;
 }
 
 img {
